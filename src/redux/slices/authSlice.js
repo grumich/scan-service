@@ -18,8 +18,8 @@ export const slice = createSlice({
       state.accessToken = accessToken;
       state.expire = expire;
       state.user = {
-        name: 'Алексей А.',
-        avatar: 'https://randomuser.me/api/portraits/men/79.jpg',
+        name: 'Александр А.',
+        avatar: 'https://cs6.pikabu.ru/avatars/1576/v1576985-1962120878.jpg',
         tariff: 'beginner',
       };
       state.isLoggedIn = true;

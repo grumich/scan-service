@@ -62,7 +62,7 @@ const LoginForm = ({ className }) => {
 
           <TextField
             className={styles.textInputGroup}
-            label="Пароль: (F9sqm@Kq38)"
+            label="Пароль: (LuwAwJf)"
             id="password"
             name="password"
             type="password"
